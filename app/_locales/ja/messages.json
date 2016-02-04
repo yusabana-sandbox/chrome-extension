@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Chromeエクステンション",
+    "description": "エクステンションの名前"
+  },
+  "appDescription": {
+    "message": "Chromeエクステンションですよ。",
+    "description": "Chromeエクステンションの説明"
+  }
+}
