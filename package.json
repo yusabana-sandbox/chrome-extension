@@ -27,21 +27,5 @@
     "main-bower-files": "^2.5.0",
     "run-sequence": "^1.1.4",
     "wiredep": "^2.2.2"
-  },
-  "eslintConfig": {
-    "env": {
-      "node": true,
-      "browser": true
-    },
-    "globals": {
-      "chrome": true
-    },
-    "rules": {
-      "eol-last": 0,
-      "quotes": [
-        2,
-        "single"
-      ]
-    }
   }
 }
