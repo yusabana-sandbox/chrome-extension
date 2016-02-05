@@ -6,5 +6,9 @@
   "appDescription": {
     "message": "Chromeエクステンションですよ。",
     "description": "Chromeエクステンションの説明"
+  },
+  "optHoge": {
+    "message": "ほげの設定",
+    "description": "ほげの設定の項目です"
   }
 }
