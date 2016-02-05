@@ -40,7 +40,7 @@
 
 
 // バッジのテキスト
-chrome.browserAction.setBadgeText({text: 'Al33'});
+chrome.browserAction.setBadgeText({text: 'Alo'});
 
 console.log('\'Allo \'Allo! Event Page for Browser Action');
 console.log(chrome.runtime.getManifest().name);

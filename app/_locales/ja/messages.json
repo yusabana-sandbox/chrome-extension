@@ -10,5 +10,9 @@
   "optHoge": {
     "message": "ほげの設定",
     "description": "ほげの設定の項目です"
+  },
+  "popupHoge": {
+    "message": "ほげのポップアップ",
+    "description": "ほげのポップアップ項目です"
   }
 }
