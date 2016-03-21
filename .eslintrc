@@ -23,5 +23,5 @@ env:
 globals:
   chrome: true
 
-ecmaFeatures:
-  modules: true
+parserOptions:
+  sourceType: module
